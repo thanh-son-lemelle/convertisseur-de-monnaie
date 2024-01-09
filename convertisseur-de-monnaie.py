@@ -5,23 +5,6 @@ c.get_symbol('GBP')
 ratio = CurrencyRates()
 taux_de_conversion = {}
 
-#===================== zone de test ================================
-
-"""
-print(ratio.get_rates("USD"))
-print (CurrencyRates().convert("USD","EUR",10))
-taux_eur_usd = ratio.get_rate ("EUR", "USD")
-
-
-print(taux_eur_usd)
-
-total = ratio.convert('BTC', 'EUR', 10)  # convert('USD', 'INR', 10) devise de base vers la devise target
-print(total)
-674.73
-#total2 = CurrencyRates.convert('USD', 'INR', 10)
-"""
-
-#======================= fin de zone =========================================
 #======================= Zone definition de fonction =========================================
 
 def liste_devises():                        # Afficher la liste des codes de devise initial
