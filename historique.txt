@@ -4,7 +4,6 @@ Pour 5000.0 European Euro vous aurez =======> 5335.0 United States dollar
 Pour 1.0 Bitcoin vous aurez =======> 50000.0 United States dollar
 Pour 50000.0 European Euro vous aurez =======> 1.07 Bitcoin
 Pour 50000.0 European Euro vous aurez =======> 1.07 Bitcoin
-Pour 0  vous aurez =======> 0 
 Pour 50000.0 European Euro vous aurez =======> 1.07 Bitcoin
 Pour 1.0 Bitcoin vous aurez =======> 85014.06 New Zealand dollar
 Pour 85014.06 New Zealand dollar vous aurez =======> 7589503.45 Japanese yen
